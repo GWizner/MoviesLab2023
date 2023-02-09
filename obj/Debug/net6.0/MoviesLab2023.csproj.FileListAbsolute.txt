@@ -1,0 +1,15 @@
+C:\Users\wizne\source\repos\MoviesLab2023\bin\Debug\net6.0\MoviesLab2023.exe
+C:\Users\wizne\source\repos\MoviesLab2023\bin\Debug\net6.0\MoviesLab2023.deps.json
+C:\Users\wizne\source\repos\MoviesLab2023\bin\Debug\net6.0\MoviesLab2023.runtimeconfig.json
+C:\Users\wizne\source\repos\MoviesLab2023\bin\Debug\net6.0\MoviesLab2023.dll
+C:\Users\wizne\source\repos\MoviesLab2023\bin\Debug\net6.0\MoviesLab2023.pdb
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.csproj.AssemblyReference.cache
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.AssemblyInfoInputs.cache
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.AssemblyInfo.cs
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.csproj.CoreCompileInputs.cache
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.dll
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\refint\MoviesLab2023.dll
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.pdb
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\MoviesLab2023.genruntimeconfig.cache
+C:\Users\wizne\source\repos\MoviesLab2023\obj\Debug\net6.0\ref\MoviesLab2023.dll
